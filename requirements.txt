@@ -1,0 +1,11 @@
+black[jupyter]
+datasets
+evaluate
+huggingface_hub
+ipykernel
+ipywidgets
+isort
+jupyter
+nbconvert
+tensorflow
+torch
